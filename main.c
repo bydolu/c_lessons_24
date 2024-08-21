@@ -32,7 +32,7 @@ int main()
                 break;
         default: switch(y){
                     case 12: z=10; break;
-                    default:z=-90;
+                    default:z=-100;
 
                 }
 
